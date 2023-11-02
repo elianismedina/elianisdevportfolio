@@ -13,9 +13,8 @@ import { AiOutlineInstagram } from "react-icons/ai";
 import { useActiveSectionContext } from "@/context/active-section-context";
 
 export default function Intro() {
-
-    const { ref } = useSectionInView("Home", 0.5);
-    const { setActiveSection, setTimeOfLastClick } = useActiveSectionContext();
+  const { ref } = useSectionInView("Home", 0.5);
+  const { setActiveSection, setTimeOfLastClick } = useActiveSectionContext();
 
   return (
     <section
@@ -67,10 +66,10 @@ export default function Intro() {
         animate={{ opacity: 1, y: 0 }}
       >
         <span className="font-bold">Hello, I&rsquo;m Elianis.</span> I&rsquo;m a{" "}
-        <span className="font-bold">full-stack developer</span> with{" "}
-        <span className="font-bold">1 year</span> of experience. I enjoy
-        building <span className="italic">sites & apps</span>. My focus is{" "}
-        <span className="underline">React (Next.js)</span>.
+        <span className="font-bold">Team Lead</span> with{" "}
+        <span className="font-bold">7 years</span> of experience. I enjoy
+        leading <span className="italic">high-performance teams</span>. My focus
+        is <span className="underline">customer service and tech support</span>.
       </motion.h1>
 
       <motion.div
