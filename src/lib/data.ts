@@ -35,28 +35,28 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Graduated bootcamp",
-    location: "Miami, FL",
+    title: "Supervisor",
+    location: "Barranquilla, Atlantico, Colombia",
     description:
-      "I graduated after 6 months of studying. I immediately found a job as a front-end developer.",
+      "I joined Teleperformance as a customer service supervisor and led a 15-member team, handling calls for a US-base retailer. I also acquired my first experience as supervisor and learned critical skills such as time management, conflict resolution, and coaching.",
     icon: React.createElement(LuGraduationCap),
-    date: "2019",
+    date: "from October 2020 to May 2021",
   },
   {
-    title: "Front-End Developer",
-    location: "Orlando, FL",
+    title: "Sales coach",
+    location: "Bogota, DC, Colombia",
     description:
-      "I worked as a front-end developer for 2 years in 1 job and 1 year in another job. I also upskilled to the full stack.",
+      "I worked as a team lead for 1 year and 6 months. I managed a team of 15 customer service, tech support and sales agents handling interactions for us-based customer. I also achieved recognition as the best coach of the second quarter of 2022",
     icon: React.createElement(CgWorkAlt),
-    date: "2019 - 2021",
+    date: "from June 2021 to January 2023",
   },
   {
-    title: "Full-Stack Developer",
-    location: "Houston, TX",
+    title: "Team Lead",
+    location: "Medellin, Antioquia, Colombia",
     description:
-      "I'm now a full-stack developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, Prisma and MongoDB. I'm open to full-time opportunities.",
+      "I worked as a team lead for 6 month. I managed a team of 15 customer-relations specialist handling complaints for US-based customers. I also help with the development of the campaign's during its firs months after successful launch.",
     icon: React.createElement(FaReact),
-    date: "2021 - present",
+    date: "April 2023 - September 2023",
   },
 ] as const;
 
