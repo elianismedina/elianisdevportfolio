@@ -20,9 +20,9 @@ export default function About() {
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
         After graduating with a degree in{" "}
-        <span className="font-medium">Finance</span>, I decided to pursue my
-        passion for English and customer service. I worked for a big BPO company
-        and acquired{" "}
+        <span className="font-medium">Systems Engineering</span>, I decided to
+        pursue my passion for English and customer service. I worked for a big
+        BPO company and acquired{" "}
         <span className="font-medium">
           customer service and tech support skills
         </span>
@@ -38,8 +38,14 @@ export default function About() {
         </span>
         . I am also familiar with Sales and ticket routing. I am always looking
         to learn new technologies. I am currently studying{" "}
-        <span className="font-medium">Multimedia Engineering</span> and I would
-        like to become a full stack developer.
+        <span className="font-medium">Multimedia Engineering</span> and I am
+        currently looking for a job to deploy my skills as a full stack
+        developer. I can develop projects using different technologies such as{" "}
+        <span className="font-medium">
+          React, Next.js, Tailwind CSS, Node.js, Express.js, MongoDB, and Ruby
+          on Rails
+        </span>
+        .
       </p>
 
       <p>
