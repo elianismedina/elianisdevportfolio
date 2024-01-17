@@ -21,8 +21,8 @@ export default function About() {
       <p className="mb-3">
         After graduating with a degree in{" "}
         <span className="font-medium">Systems Engineering</span>, I decided to
-        pursue my passion for English and customer service. I worked for a big
-        BPO company and acquired{" "}
+        pursue my passion for English and customer service. I started working
+        for big BPO companies and acquired{" "}
         <span className="font-medium">
           customer service and tech support skills
         </span>
@@ -30,17 +30,18 @@ export default function About() {
         <span className="italic">
           My favorite part of the call center world
         </span>{" "}
-        is the engagement and recognition aspect. I{" "}
+        was the engagement and recognition aspect. I{" "}
         <span className="underline">love</span> the feeling of finally figuring
-        out a solution to a problem. My core skill are{" "}
+        out a solution to a problem. My core skills are{" "}
         <span className="font-medium">
           time management, problem solving, and communication
         </span>
         . I am also familiar with Sales and ticket routing. I am always looking
         to learn new technologies. I am currently studying{" "}
         <span className="font-medium">Multimedia Engineering</span> and I am
-        currently looking for a job to deploy my skills as a full stack
-        developer. I can develop projects using different technologies such as{" "}
+        looking for a job in the web development field. I would like to become a
+        fullstack developer someday I can develop projects using different
+        technologies such as{" "}
         <span className="font-medium">
           React, Next.js, Tailwind CSS, Node.js, Express.js, MongoDB, and Ruby
           on Rails
@@ -51,10 +52,12 @@ export default function About() {
       <p>
         <span className="italic">When I&apos;m not coding</span>, I enjoy
         watching Youtube videos about technology, watching movies, and spending
-        time with my family. I also enjoy{" "}
-        <span className="font-medium">learning new things</span>. I am currently
-        learning about{" "}
-        <span className="font-medium">how to start my own Youtube channel</span>
+        time with my family (my wife Ana Maria and my little son Isaac). I also
+        enjoy <span className="font-medium">learning new things</span>. I am a
+        big fan of social media projects{" "}
+        <span className="font-medium">
+          and I would like to start my own Youtube channel
+        </span>
         . I&apos;m also learning how to develop e-commerce projects.
       </p>
     </motion.section>

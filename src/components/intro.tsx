@@ -35,7 +35,7 @@ export default function Intro() {
           >
             <Image
               src="https://res.cloudinary.com/dxa54qfxx/image/upload/v1698500110/profile-pic_1_qdvket.png"
-              alt="Ricardo portrait"
+              alt="Elianis portrait"
               width="192"
               height="192"
               quality="95"
@@ -66,10 +66,14 @@ export default function Intro() {
         animate={{ opacity: 1, y: 0 }}
       >
         <span className="font-bold">Hello, I&rsquo;m Elianis.</span> I&rsquo;m a{" "}
-        <span className="font-bold">Team Lead</span> with{" "}
-        <span className="font-bold">7 years</span> of experience. I enjoy
-        leading <span className="italic">high-performance teams</span>. My focus
-        is <span className="underline">customer service and tech support</span>.
+        <span className="font-bold">
+          Multimeda Engineering student at UNAD university in Colombia
+        </span>{" "}
+        I have <span className="font-bold">7 years</span> of experience in
+        customer service and tech support. I enjoy learning web development{" "}
+        <span className="italic">and creating projects</span>. My focus is{" "}
+        <span className="underline">javascript, react, next js and python</span>
+        .
       </motion.h1>
 
       <motion.div
