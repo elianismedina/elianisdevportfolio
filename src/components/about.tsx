@@ -19,14 +19,11 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        After graduating with a degree in{" "}
-        <span className="font-medium">Systems Engineering</span>, I decided to
-        pursue my passion for English and customer service. I started working
-        for big BPO companies and acquired{" "}
-        <span className="font-medium">
-          customer service and tech support skills
-        </span>
-        .{" "}
+        I started my professional experience in 2015 when I started working as a{" "}
+        <span className="font-medium">customer service rep</span>, I decided to
+        pursue my passion for English and customer service and I got to develop
+        key skills in{" "}
+        <span className="font-medium">customer service and tech support</span>.{" "}
         <span className="italic">
           My favorite part of the call center world
         </span>{" "}
